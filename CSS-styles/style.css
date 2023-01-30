@@ -272,7 +272,7 @@ body {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: linear-gradient(to top, #2c4755 10%, #2c47558d);
+  background-image: linear-gradient(to top, #2c4755 10%, #2c475511);
 }
 
 .services .container .services-content .image::after {
